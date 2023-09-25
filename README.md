@@ -54,6 +54,6 @@ Users should be able to:
 
 - Twitter - https://twitter.com/bharathkumar693
 
--Discord - bharath36
+- Discord - bharath36
 
 
